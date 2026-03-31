@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 👋
 
 <!--
 **ric-rv/ric-rv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently developing my skills in React’s framework, Next.js, actively building and refining scalable applications and features that enable me to continuously broaden my areas of expertise.
+
+Actively developing a Professiona Booking Application using Next.js + Supabase, applying knowledge gained from React.js coursework while customizing and optimizing libraries such as TailwindCSS.
